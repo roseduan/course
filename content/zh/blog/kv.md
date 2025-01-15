@@ -1,6 +1,6 @@
 ---
-author: Mark Dumay
-title: 从零实现
+author: roseduan
+title: 从零实现 KV 存储
 date: 2021-07-15
 description: Another project.
 tags: ["javascript", "golang"]
