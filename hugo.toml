@@ -1,5 +1,0 @@
-baseURL = 'https://roseduan.cn/course/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-[[module.imports]]
-path = 'github.com/gethinode/hinode'
