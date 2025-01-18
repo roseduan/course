@@ -2,11 +2,8 @@
 author: 
 title: 从零实现 SQL 数据库
 date: 2021-07-15
-description: Another project.
-tags: ["javascript", "golang"]
+description: ￥800 | 使用 Rust 手写一个数据库系统，超级硬核，Rust 实战项目首选！
+tags: ["SQL"]
 thumbnail: 
-    url: img/coffee.jpg
-    author: Karl Fredrickson
-    origin: Unsplash
-    originURL: https://unsplash.com/photos/TYIzeCiZ_60
+    url: https://s2.loli.net/2025/01/18/zQlEr2f6VidSNmL.png
 ---
