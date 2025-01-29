@@ -1,0 +1,14 @@
+# toml-docs-start lang-main
+[en]
+    languageName = "English"
+    contentDir = "content"
+    weight = 1
+# toml-docs-end lang-main
+# toml-docs-start lang-param
+    [en.params.head]
+        tagline = "roseduan"
+    [en.params.social]
+        title = "关于作者"
+        caption = "roseduan，开源项目rosedb、lotusdb 的作者，目前累计超过 6k star，目前担任数据库内核研发的职位，主要研究 Postgres 数据库，在数据库内核开发方面有丰富的经验"
+    [en.params.footer]
+# toml-docs-end lang-param
