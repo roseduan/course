@@ -9,6 +9,6 @@
         tagline = "roseduan"
     [en.params.social]
         title = "关于作者"
-        caption = "roseduan，开源项目rosedb、lotusdb 的作者，目前累计超过 6k star，目前担任数据库内核研发的职位，主要研究 Postgres 数据库，在数据库内核开发方面有丰富的经验"
+        caption = "roseduan，开源项目rosedb、lotusdb 的作者，目前累计超过 6k star，目前担任数据库内核研发的职位，主要研究 Postgres 数据库，在数据库内核开发方面有丰富的经验。购买课程请添加微信（kiss_duan），备注“课程购买”。"
     [en.params.footer]
 # toml-docs-end lang-param

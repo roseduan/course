@@ -30,11 +30,11 @@
 #   pageRef = "/tags/"
 #   weight = 40
 
-[[social]]
-  name = "Zhihu"
-  pre = "fab Zhihu"
-  url = "https://www.zhihu.com/people/roseduan"
-  weight = 10
+# [[social]]
+#   name = "Zhihu"
+#   pre = "fab Zhihu"
+#   url = "https://www.zhihu.com/people/roseduan"
+#   weight = 10
 
 [[social]]
   name = "GitHub"
@@ -42,11 +42,11 @@
   url = "https://github.com/roseduan"
   weight = 20
 
-[[social]]
-  name = "Weixin"
-  pre = "fab weixin"
-  url = "https://mp.weixin.qq.com/s/hs36eiU7Zr-UdJ0YBtZgKQ"
-  weight = 30
+# [[social]]
+#   name = "Weixin"
+#   pre = "fab weixin"
+#   url = "https://mp.weixin.qq.com/s/hs36eiU7Zr-UdJ0YBtZgKQ"
+#   weight = 30
 
 # [[sample]]
 #   name = "Blog"
